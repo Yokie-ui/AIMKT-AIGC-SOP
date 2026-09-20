@@ -21,10 +21,10 @@
 在 `index.html` 中搜索 `CONTENT_CONFIG`：
 
 - `standard.images`、`portrait.images`、`custom.images`：三类 3:4 展示图片，每类预留四张。填写 `src` 并按需更新 `title`。
-- `screenshots.brief`、`screenshots.combination`、`screenshots.feedback`：三处项目截图。
+- `screenshots.brief`、`screenshots.feedback`：第 4 页与第 6 页项目截图。
 - `production`、`revision`、`levels`：制作与修改周期。
 
-第 4 页已加入 Brief 截图，并通过「BRIEF MOCKUP」链接到飞书示例；其余业务图片与截图为示意占位。使用相对图片路径时，需将图片一起保存或部署；继续使用内嵌图片可保留单文件离线能力。
+第 4 页已加入 Brief 截图，并通过「BRIEF MOCKUP」链接到飞书示例；第 5 页以 40% / 30% / 20% / 10% 比例条展示内容测试组合，并预留四类内容案例。其余业务图片与截图为示意占位。使用相对图片路径时，需将图片一起保存或部署；继续使用内嵌图片可保留单文件离线能力。
 
 ## 发布
 
